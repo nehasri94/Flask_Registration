@@ -1,0 +1,4 @@
+pip install flask
+pip install flask-mysqldb
+Modules used include request, re,url_for, redirect, session, render_template, flash, Flask
+MySQL Server 8.0 (Local setup)
