@@ -2,3 +2,4 @@ pip install flask
 pip install flask-mysqldb
 Modules used include request, re,url_for, redirect, session, render_template, flash, Flask
 MySQL Server 8.0 (Local setup)
+Set flask environment variables : set FLASK_APP = app.py, set FLASK_DEBUG = 1, flask run (or python app.py) to run the application on localhost (port is 5000).
